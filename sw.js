@@ -1,5 +1,5 @@
 // Maglieria Studio — Service Worker v5
-const CACHE = 'maglieria-v5';
+const CACHE = 'maglieria-v6';
 const ASSETS = [
   './',
   './index.html',
